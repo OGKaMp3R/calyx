@@ -1,0 +1,80 @@
+[
+  {
+    "agent": "PixelPhaze",
+    "filename": "sprite_pixelphaze.png",
+    "source": "6f87c0b1-8ec2-45e2-905e-c48d64aa4dc0.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "SignalSage",
+    "filename": "sprite_signalsage.png",
+    "source": "58a77d3f-dda3-4c78-9737-3883bf02047d.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "TemplateFox",
+    "filename": "sprite_templatefox.png",
+    "source": "b4d1b536-b533-469a-b542-4a3b050a1d85.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "CudaPunk",
+    "filename": "sprite_cudapunk.png",
+    "source": "3f847237-2f23-4f16-88dd-6bc61343d662.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "TaskMoth",
+    "filename": "sprite_taskmoth.png",
+    "source": "e5f5c4ab-ee03-4762-9653-2f091e2d9370.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "BossCat",
+    "filename": "sprite_bosscat.png",
+    "source": "4fb37431-d9b6-4393-8f94-7b21698ba6c8.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "KindKnife",
+    "filename": "sprite_kindknife.png",
+    "source": "09361954-d3e0-43eb-b246-a2b823bc096d.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "PlainJane",
+    "filename": "sprite_plainjane.png",
+    "source": "f45d6b3d-4ea7-478f-b44f-cceaeb51731a.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "ChartMonk",
+    "filename": "sprite_chartmonk.png",
+    "source": "9cb21a28-6c09-4ea8-80c2-c37fea161906.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "BotBoi",
+    "filename": "sprite_botboi.png",
+    "source": "ecbb4d3a-ffdd-4fe2-b2a9-6159e41ed83f.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "ScrubLord",
+    "filename": "sprite_scrublord.png",
+    "source": "fab1943b-36d3-45c2-8782-8d212c4d0279.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "PatchByte",
+    "filename": "sprite_patchbyte.png",
+    "source": "7e867cb3-2f63-4377-9b1e-5a57b4c0e3cc.png",
+    "normalized": "true"
+  },
+  {
+    "agent": "Office Background",
+    "filename": "office_bg_4x3_cyber_anime.png",
+    "source": "1c0c0570-d579-4624-a17c-b5ec0244c604.png",
+    "normalized": "false"
+  }
+]

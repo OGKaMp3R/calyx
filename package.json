@@ -1,0 +1,37 @@
+{
+  "name": "project-calyx",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server/stable-server.mjs",
+    "start:stable": "node server/stable-server.mjs",
+    "start:app": "node scripts/start-calyx.mjs",
+    "stable": "node scripts/run-stable.mjs",
+    "dev": "concurrently \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:web": "vite --host 0.0.0.0 --port 5173",
+    "dev:api": "node server/index.js",
+    "build": "node scripts/build-static.mjs",
+    "preview": "node scripts/block-preview.mjs",
+    "preview:dist-only": "python3 -m http.server 4173 -d dist",
+    "package:static": "node scripts/package-static.mjs",
+    "test": "node server/smoke-test.js"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "autoprefixer": "latest",
+    "concurrently": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}

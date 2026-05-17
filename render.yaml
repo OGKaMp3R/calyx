@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: project-calyx
+    runtime: node
+    plan: starter
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 24.14.0
+      - key: RUN_AGENT_MODE
+        value: placeholder
+      - key: BROWSER_AUTOMATION_MODE
+        value: off

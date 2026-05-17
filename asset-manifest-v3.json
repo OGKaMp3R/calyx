@@ -1,0 +1,19 @@
+{
+  "version": "v3-original-sheets",
+  "note": "Uses the clearer original six-frame horizontal sprite sheets. App patch switches Sprite rendering from height-based scaling to width-based scaling so tall sheets do not collapse into tiny noisy blobs.",
+  "mapping": {
+    "sprite_pixelphaze.png": "cyberpunk_gamer_girl_in_action_stages.png",
+    "sprite_signalsage.png": "signalsage_in_action.png",
+    "sprite_templatefox.png": "fox_themed_tech_office_sprite_sheet.png",
+    "sprite_cudapunk.png": "cyberpunk_workstation_in_action_sequence.png",
+    "sprite_taskmoth.png": "taskmoth_chibi_hacker_work_cycle.png",
+    "sprite_bosscat.png": "bosscat_s_cyberpunk_workday_in_panels.png",
+    "sprite_kindknife.png": "cyberpunk_workstation_operator_in_action.png",
+    "sprite_plainjane.png": "tech_savvy_chibi_at_the_desk.png",
+    "sprite_chartmonk.png": "cyberpunk_analyst_expressions_in_pixel_art.png",
+    "sprite_botboi.png": "cyberpunk_tech_workstation_in_action.png",
+    "sprite_scrublord.png": "tech_janitor_at_work_stations.png",
+    "sprite_patchbyte.png": "patchbyte_at_work_in_pixel_form.png"
+  },
+  "backdrop": "office_bg_4x3_cyber_anime.png"
+}
