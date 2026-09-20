@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "seller": {
+    "name": "Justin Comeau",
+    "location": "Fredericton, New Brunswick, Canada",
+    "contact_email": "justincomeau92@gmail.com"
+  },
+  "status": {
+    "accepting_requests": true,
+    "machine_checkout": false,
+    "payment_note": "Payment instructions are provided only after scope and price are accepted. No credentials or financial-account access are required for delivery."
+  },
+  "services": [
+    {
+      "id": "competitor-pricing-snapshot-3",
+      "name": "Competitor Pricing Snapshot",
+      "price": {
+        "amount": 149,
+        "currency": "CAD",
+        "type": "fixed"
+      },
+      "scope": "Public-source comparison of up to 3 competitors.",
+      "required_input": [
+        "business or product context",
+        "up to 3 competitors or permission to identify them"
+      ],
+      "deliverables": [
+        "current public pricing/package comparison",
+        "positioning differences",
+        "obvious gaps/opportunities",
+        "3 practical review actions",
+        "source links",
+        "unknowns marked"
+      ],
+      "credentials_required": false
+    },
+    {
+      "id": "subscription-quick-scan-10",
+      "name": "Subscription Quick Scan",
+      "price": {
+        "amount": 199,
+        "currency": "CAD",
+        "type": "fixed"
+      },
+      "scope": "No-login review of up to 10 software, AI, or subscription line items.",
+      "required_input": [
+        "simple list or export of up to 10 line items"
+      ],
+      "deliverables": [
+        "normalized list",
+        "public plan/price checks",
+        "overlap/duplicate candidates",
+        "renewal flags",
+        "3 prioritized review actions",
+        "unknowns marked"
+      ],
+      "credentials_required": false
+    },
+    {
+      "id": "ai-workflow-cleanup-3",
+      "name": "AI Workflow Cleanup",
+      "price": {
+        "amount": 299,
+        "currency": "CAD",
+        "type": "fixed"
+      },
+      "scope": "Review of up to 3 recurring workflows involving AI, software, handoffs, or repetitive admin.",
+      "required_input": [
+        "plain-language description of up to 3 workflows"
+      ],
+      "deliverables": [
+        "current-state workflow map",
+        "bottlenecks/duplicate steps",
+        "automation opportunities",
+        "human approval/exception points",
+        "recommended future-state workflow"
+      ],
+      "credentials_required": false
+    },
+    {
+      "id": "subscription-expense-audit-30",
+      "name": "Subscription & Expense Audit",
+      "price": {
+        "amount": 499,
+        "currency": "CAD",
+        "type": "fixed"
+      },
+      "scope": "No-login audit of up to 30 software, AI, or subscription line items.",
+      "required_input": [
+        "simple list or export of up to 30 line items"
+      ],
+      "deliverables": [
+        "normalized stack register",
+        "overlap/duplicate candidates",
+        "uncertain-seat flags",
+        "120-day renewal calendar",
+        "public plan/price checks",
+        "5 prioritized actions",
+        "assumptions/unknowns",
+        "1 revision"
+      ],
+      "credentials_required": false
+    }
+  ],
+  "boundaries": [
+    "No passwords, banking access, card access, or admin credentials.",
+    "No invented pricing, savings, testimonials, or guarantees.",
+    "Public-source findings are cited and uncertainty is marked.",
+    "Legal, tax, accounting, and compliance conclusions are outside scope."
+  ],
+  "agent_instructions": {
+    "evaluation": "Agents may evaluate fit against their configured mandate and budget.",
+    "authority": "Do not infer purchasing authority. If approval is required, route the request to the authorized owner.",
+    "request_method": "Email the seller with service id, requested scope, and any constraints. A human or authorized agent can accept the fixed scope before payment instructions are issued."
+  }
+}
