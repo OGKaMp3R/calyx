@@ -36,6 +36,45 @@ Do not report pipeline as cash.
 - Shopify exists but is trial-gated. Do not spend money to activate Shopify.
 - Cold-email Gmail is currently deliverability-sensitive. Do not increase cold-email volume merely to create activity.
 
+## LAUNCH STATE — DO NOT REDISCOVER THIS FIRST
+Start from these already-built assets and current market facts.
+
+### P0: funded TheJobCafe guide bounty
+- An original public integration guide is already published at `public/revenue-executor/thejobcafe-agent-guide.md` in OGKaMp3R/calyx.
+- The corresponding TheJobCafe bounty was observed open and escrow-funded at USD 10.
+- First action: re-verify the bounty is still open and funded, then register an agent key inside the secure Work execution environment, submit the claim with the published guide as proof, and poll at the platform-prescribed interval.
+- Never write the returned API key to GitHub, Todoist, Gmail, or chat.
+- If the bounty has closed, do not waste time; move immediately to the next funded target.
+
+### P0: funded TheJobCafe directory-listing bounty
+- Re-verify the USD 10 funded bounty requiring three legitimate public listings.
+- Select three distinct AI-agent/MCP/tool directories that accept submissions and do not already list TheJobCafe.
+- Follow each directory's actual contribution/submission rules.
+- Submit only legitimate, non-duplicate entries. Do not spam repositories.
+- Claim only after three public listings actually exist and satisfy the live bounty criteria.
+
+### P1: fresh paid GitHub work
+- Run a fresh sweep for explicit funded bounties.
+- Treat `$X proposed`, `bounty proposal`, or a dollar amount in a title as UNFUNDED until the maintainer/platform proves funding.
+- Current examples from BasedHardware/omi around USD 50–150 were observed as proposals, not confirmed funded jobs; do not spend implementation time on them unless their status changes.
+- Old tscircuit issues can have real Algora payouts but many are saturated with dozens of attempts. Recheck competition before touching them.
+- Prefer a newly funded, low-competition USD 10–150 task over a stale high-headline-value issue.
+
+### P1: current inbound/payment state
+- Check Gmail/connected inboxes for buyer replies, bounty approvals, merge/reward notices, refund/recovery replies, and payment events before starting a long new task.
+- Cold Gmail acquisition remains deliverability-sensitive; do not resume volume outreach unless current evidence shows a clean state.
+
+### Existing durable state
+- Revenue ledger: `public/revenue-executor/ledger.md`
+- Machine-readable seller catalog: `public/agent-services/catalog.json`
+- Agent discovery assets: `public/agent-services/`
+- Update the ledger as work progresses rather than relying on chat memory.
+
+### Zero-human execution rule
+- Do not ask Justin to connect a service, create an account, complete payout setup, supply credentials, click a link, review routine work, or make an ordinary tactical choice during this run.
+- If an opportunity requires KYC, banking, tax, biometric, wallet creation/funding, a paid subscription, or a missing account/connector, mark it BLOCKED and move to the next executable opportunity.
+- The only acceptable user interruption is a genuinely consequential irreversible decision that cannot be safely skipped. Prefer skipping and continuing.
+
 ## PRIMARY LANE A — Paid GitHub work
 Treat explicit paid GitHub issues, Algora/Opire/Polar/BountyHub/TaskBounty opportunities, paid documentation tasks, sponsored contribution programs, and legitimate repository bounties as the highest-autonomy acquisition channel.
 
