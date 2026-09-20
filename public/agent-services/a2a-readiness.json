@@ -1,0 +1,32 @@
+{
+  "status": "pre-integration",
+  "note": "This is not an A2A Agent Card and does not claim an active A2A server.",
+  "intended_standard": "A2A Agent Card at /.well-known/agent-card.json once an HTTPS A2A server exists",
+  "catalog": "https://raw.githubusercontent.com/OGKaMp3R/calyx/main/public/agent-services/catalog.json",
+  "candidate_skills": [
+    {
+      "id": "competitor-pricing-snapshot-3",
+      "name": "Competitor Pricing Snapshot"
+    },
+    {
+      "id": "subscription-quick-scan-10",
+      "name": "Subscription Quick Scan"
+    },
+    {
+      "id": "ai-workflow-cleanup-3",
+      "name": "AI Workflow Cleanup"
+    },
+    {
+      "id": "subscription-expense-audit-30",
+      "name": "Subscription & Expense Audit"
+    }
+  ],
+  "requirements_before_claiming_a2a_support": [
+    "public HTTPS server",
+    "working A2A request handler",
+    "valid Agent Card",
+    "task lifecycle and error handling",
+    "payment/authority boundary",
+    "post-action verification and audit trail"
+  ]
+}
