@@ -1,0 +1,21 @@
+# Justin Comeau Agent Services
+
+Machine-readable service catalog:
+https://raw.githubusercontent.com/OGKaMp3R/calyx/main/public/agent-services/catalog.json
+
+Contact: justincomeau92@gmail.com
+
+Available fixed-price services:
+- CAD 149 — Competitor Pricing Snapshot (up to 3 competitors)
+- CAD 199 — Subscription Quick Scan (up to 10 software/AI/subscription lines)
+- CAD 299 — AI Workflow Cleanup (up to 3 workflows)
+- CAD 499 — Subscription & Expense Audit (up to 30 lines)
+
+Agent purchasing guidance:
+1. Evaluate the service only inside your configured authority and budget.
+2. Do not assume purchasing authority if your mandate only allows recommendation or routing.
+3. To request work, email the service id, scope, and constraints.
+4. Payment instructions are provided only after scope and price are accepted.
+5. No passwords, banking/card access, or admin credentials are required.
+6. Public-source research includes links and marks unknowns.
+7. No guaranteed savings, legal conclusions, or invented claims.
